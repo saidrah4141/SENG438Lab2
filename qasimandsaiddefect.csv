@@ -1,0 +1,7 @@
+﻿ID,Work Item Type,Title,Assigned To,State,Tags
+"1","Bug","Withdrawal from Checking account #1. version: 1.0",,"Active","1.0; Exploratory; Scripted"
+"2","Bug","Withdrawal Savings. version: 1.0",,"Active","1.0; Exploratory"
+"3","Bug","Transfers do not transfer the correct amount. version: 1.0",,"Active","1.0; Exploratory; Scripted"
+"4","Bug","Balance Inquiry outputs Money when invalid is selected",,"Active","1.0; Exploratory"
+"5","Bug","Invalid Account Type for card 1 balance inquiry",,"Active","1.0; Exploratory"
+"6","Bug","Money Withdrawal for Balance Check",,"Active","1.0; Exploratory"
