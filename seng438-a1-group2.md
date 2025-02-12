@@ -6,8 +6,8 @@
 |-----------------|
 | Said Rahmani                |   
 | Qasim Amar              |   
-| Student 3 name               |   
-| Student 4 name                |   
+| Ahmed Addullah              |   
+| Muhammad Bilal             |   
 
 
 **Table of Contents**
