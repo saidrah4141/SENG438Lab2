@@ -96,6 +96,10 @@ receipts, etc.
 
 Test 8.1: Try to turn off the machine while in progress of serviving a customer
 
+Test Plan #2 Ahmed and Bilal:
+
+Our plan for exploratory testing was for each of us to test one of the cards, testing all the functions related to deposit, withdrawal, transfer, and inquiry for that card. We made sure to test the most common paths and the exceptional paths as well as analyze the output at each step and compare it to the expected outputs. Once we completed testing at the card level, we compared and recorded our findings and then proceeded to test the system as a whole by entering incorrect pins, card numbers, insufficient atm balance, and every other possible case where something could go wrong. We used the driver navigator pair programming approach to test the system as a whole. Lastly, we conducted one final test at the card level by entering insufficient atm funds and retesting the withdrawal function for both cards.
+
 
 
 # Comparison of exploratory and manual functional testing
